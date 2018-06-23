@@ -1,0 +1,16 @@
+{
+  "name": "markdown-it-furigana",
+  "version": "1.0.0",
+  "description": "Markdown-it plugin for furigana",
+  "main": "index.js",
+  "author": "Vincent",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["markdown-it","markdown-it-plugin"],
+  "devDependencies": {
+    "jest": "^23.1.0",
+    "markdown-it": "^8.4.1"
+  }
+}
